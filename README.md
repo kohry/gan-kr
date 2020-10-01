@@ -1,5 +1,5 @@
-# Make Your First GAN With PyTorch
+# 파이토치와 함께하는 GAN 첫걸음
 
-python notebooks accompanying the book: [Make Your First GAN With PyTorch](https://www.amazon.com/dp/B085RNKXPD)
+파이토치와 함께하는 GAN 첫걸음 한국어 버전입니다.
 
-blog: [https://makeyourownneuralnetwork.blogspot.com](https://makeyourownneuralnetwork.blogspot.com)
+원 저자 블로그: [https://makeyourownneuralnetwork.blogspot.com](https://makeyourownneuralnetwork.blogspot.com)
